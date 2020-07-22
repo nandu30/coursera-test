@@ -103,7 +103,7 @@ padding:2px;
 }
 div.chicken, .beef, .sushi {
 width:98%;
-height:450px;
+height:500px;
 background-color: gray;
 float: center;
 border: 2px solid black;
